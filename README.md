@@ -5,6 +5,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?logo=tailwind-css&style=flat-square)
 ![Gemini API](https://img.shields.io/badge/Google_Gemini-AI-8E75B2?logo=google&style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![prototype](https://ai.studio/apps/drive/1QMGPAVAbE2GBkj3lrVY9jpDzB2DNCF3j?fullscreenApplet=true)
 
 **Scholar AI** is an intelligent, personalized academic mentor designed to help students plan their day, master difficult concepts, and stay focused. 
 
