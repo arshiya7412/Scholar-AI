@@ -5,7 +5,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?logo=tailwind-css&style=flat-square)
 ![Gemini API](https://img.shields.io/badge/Google_Gemini-AI-8E75B2?logo=google&style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![prototype](https://ai.studio/apps/drive/1QMGPAVAbE2GBkj3lrVY9jpDzB2DNCF3j?fullscreenApplet=true)
 
 **Scholar AI** is an intelligent, personalized academic mentor designed to help students plan their day, master difficult concepts, and stay focused. 
 
@@ -77,6 +76,18 @@ Powered by **Google's Gemini models**, it adapts to the student's specific learn
 
 ---
 
+## 📸 Screenshots
+
+<!-- You can add screenshots here -->
+| Dashboard | Study Planner |
+|:---:|:---:|
+| *(Add Dashboard Screenshot)* | *(Add Planner Screenshot)* |
+
+| AI Tutor | Focus Zone |
+|:---:|:---:|
+| *(Add Chat Screenshot)* | *(Add Focus Tools Screenshot)* |
+
+---
 
 ## 🤝 Contributing
 
@@ -87,3 +98,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
