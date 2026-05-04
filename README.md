@@ -46,6 +46,10 @@ Powered by **Google's Gemini models**, it adapts to the student's specific learn
 
 ## 🚀 Getting Started
 
+## Deployement Link:
+
+Open [https://scholarai01.netlify.app/](https://scholarai01.netlify.app/) to view in browser
+
 ### Prerequisites
 - Node.js installed on your machine.
 - A Google Gemini API Key. You can get one from [Google AI Studio](https://aistudio.google.com/).
